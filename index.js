@@ -15,7 +15,8 @@ app.use(cors({
     'http://localhost:3000',
     'https://tiki-react-ev76xp2r2-apocalypsed2812s-projects.vercel.app',
     'https://tiki-react-sepia.vercel.app',
-    'https://tiki-react-api.onrender.com'
+    'https://tiki-react-api.onrender.com',
+    'http://127.0.0.1:5500'
   ],
   methods: ['GET','POST','PUT','DELETE','OPTIONS'],
   credentials: true
